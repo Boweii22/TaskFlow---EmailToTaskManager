@@ -1,6 +1,9 @@
 # TaskFlow - Email-to-Task Manager
+![946shots_so](https://github.com/user-attachments/assets/c6879cc4-6278-4890-b4a7-10b88b36ae6d)
+
 
 A beautiful, minimal task management application that automatically converts incoming emails into organized tasks using Postmark integration.
+Live Project: https://task-flow-email-to-task-manager.vercel.app/
 
 ## ✨ Features
 
@@ -234,7 +237,7 @@ The app is ready for deployment to any modern hosting platform:
 
 ## 📄 License
 
-MIT License - feel free to use this project for personal or commercial purposes.
+MIT License 
 
 ---
 
